@@ -165,3 +165,10 @@ git push origin v1.0.0
 **Explicação:**
 - `git clone <url>`: Clona um repositório remoto.
 - `git fetch origin --tags`: Obtém as tags do repositório remoto.
+
+- git tag -a v1.0.0 -m "Versão 1.0.0 - Entrega inicial": define um nome para a tag e da um commit
+
+- git push origin v1.0.0 envia a tag para o GitHub
+
+Lembre-se de que a ordem e a necessidade de cada comando podem variar dependendo da situação em que você se encontra no uso do Git.
+
